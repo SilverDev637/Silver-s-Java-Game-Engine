@@ -5,4 +5,4 @@ This project is currently **under active development** and serves as both a pers
 
 ---
 
-### See [documentation](https://github.com/SilverDev637/Silver-s-Java-Game-Engine/documentation.md)
+### See [documentation](https://github.com/SilverDev637/Silver-s-Java-Game-Engine/blob/master/documentation.md)
