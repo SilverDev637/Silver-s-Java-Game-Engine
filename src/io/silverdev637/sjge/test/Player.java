@@ -6,8 +6,6 @@ import static io.silverdev637.sjge.test.Main.input;
 import java.awt.Color;
 import java.awt.Graphics;
 
-import io.silverdev637.sjge.Core;
-import io.silverdev637.sjge.engine.Camera;
 import io.silverdev637.sjge.engine.Sprite;
 
 public class Player extends Sprite {
